@@ -51,15 +51,26 @@ Prediction of the functional consequences of sequence variants listed in a VCF f
 
 ## (3) Teaching @ Uni Bielefeld
 
-### (3.1) APPLS
+### (3.1) Applied Python Programming for Life Scientists (APPLS)
 This course enables life scientists to learn Python basics to address their specific research questions. The [APPLS repository](https://github.com/bpucker/APPLS) contains the materials of this course.
+
+<a href="https://github.com/bpucker/APPLS">
+<img alt="Applied Python Programming for Life Scientists (APPLS)" src="https://github.com/bpucker/figures/raw/main/Python_course.png" width="30%" height="30%">
+</a>
 
 ### (3.2) Applied Plant Genomics
 This course provides a comprehensive introduction to the analysis of next generation sequencing (NGS) data sets. All materials are available in the [AGR repository](https://github.com/bpucker/AppliedGenomeResearch).
 
+<a href="https://github.com/bpucker/AppliedGenomeResearch">
+<img alt="Applied Plant Genomics" src="https://github.com/bpucker/figures/raw/main/AppliedGenomeReserachCourseContentOverview.png" width="30%" height="30%">
+</a>
+
 ### (3.3) Molecular Methods in Genome Research
 This course introduces molecular biologists to wet lab methods of genome research. Please find the materials in the [MMGR repository](https://github.com/bpucker/MolecularMethodsInGenomeResearch).
 
+<a href="https://github.com/bpucker/MolecularMethodsInGenomeResearch">
+<img alt="Molecular Methods in Genome Research" src="https://github.com/bpucker/figures/raw/main/MolecularMethodsInGenomeReserachCourseOverview.png" width="30%" height="30%">
+</a>
 
 ## (4) Teaching @ TU Braunschweig
 ### (4.1) Introduction to Biochemistry and Bioinformatics of Plants
