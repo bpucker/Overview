@@ -58,7 +58,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </a>
 
 
-### Applied Plant Genomics (in preparation)
+### Applied Plant Genomics
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics">
