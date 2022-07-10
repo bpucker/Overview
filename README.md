@@ -53,6 +53,11 @@ Prediction of the functional consequences of sequence variants listed in a VCF f
 ### Introduction to Biochemistry and Bioinformatics of Plants
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
+<a href="https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics">
+<img alt="Digitalis flowers" src="https://github.com/bpucker/teaching/blob/master/MB09_PlantBiochemistryBioinformatics/digitalis_pictures.png?raw=true" width="50%" height="50%">
+</a>
+
+
 ### Applied Plant Genomics (in preparation)
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
