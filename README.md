@@ -75,7 +75,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 
 ## References
-
+Please find a full list of our publications on the [@PuckerLab website](https://www.tu-braunschweig.de/en/ifp/pbb/publications).
 
 
 ## Contact
