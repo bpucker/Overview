@@ -54,7 +54,7 @@ Prediction of the functional consequences of sequence variants listed in a VCF f
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics">
-<img alt="Digitalis flowers" src="https://github.com/bpucker/teaching/blob/master/MB09_PlantBiochemistryBioinformatics/digitalis_pictures.png?raw=true" width="50%" height="50%">
+<img alt="Digitalis flowers" src="https://github.com/bpucker/teaching/blob/master/MB09_PlantBiochemistryBioinformatics/digitalis_pictures.png?raw=true" width="20%" height="20%">
 </a>
 
 
