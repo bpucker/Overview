@@ -49,8 +49,20 @@ Prediction of the functional consequences of sequence variants listed in a VCF f
 <img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2019; doi:10.1101/596718 )" src="https://www.biorxiv.org/content/biorxiv/early/2019/06/27/596718/F3.large.jpg?width=800&height=600&carousel=1" width="30%" height="30%">
 </a>
 
-## (3) Teaching
-### (3.1) Introduction to Biochemistry and Bioinformatics of Plants
+## (3) Teaching @ Uni Bielefeld
+
+### (3.1) APPLS
+This course enables life scientists to learn Python basics to address their specific research questions. The [APPLS repository](https://github.com/bpucker/APPLS) contains the materials of this course.
+
+### (3.2) Applied Plant Genomics
+This course provides a comprehensive introduction to the analysis of next generation sequencing (NGS) data sets. All materials are available in the [AGR repository](https://github.com/bpucker/AppliedGenomeResearch).
+
+### (3.3) Molecular Methods in Genome Research
+This course introduces molecular biologists to wet lab methods of genome research. Please find the materials in the [MMGR repository](https://github.com/bpucker/MolecularMethodsInGenomeResearch).
+
+
+## (4) Teaching @ TU Braunschweig
+### (4.1) Introduction to Biochemistry and Bioinformatics of Plants
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics">
@@ -58,7 +70,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </a>
 
 
-### (3.2) Applied Plant Genomics
+### (4.2) Applied Plant Genomics
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics">
@@ -66,10 +78,10 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </a>
 
 
-### (3.3) Data Literacy in Plant Sciences (in preparation) 
+### (4.3) Data Literacy in Plant Sciences (in preparation) 
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/DataLiteracyInPlantSciences).
 
-### (3.4) iGEM @ TU Braunschweig ###
+### (4.4) iGEM @ TU Braunschweig ###
 [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/en/igem/2022).
 
 <a href="https://www.tu-braunschweig.de/en/igem/2022">
@@ -78,8 +90,34 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </div>
 </a>  
 
-## (4) Project Specific Repositories
 
+## (5) Project Specific Repositories
+
+https://github.com/bpucker/ApiaceaeFNS1 (preprint available)
+
+https://github.com/bpucker/CoExp (web server support)
+
+https://github.com/bpucker/RNA-Seq_analysis (PEPD nature paper)
+
+https://github.com/bpucker/pitaya (pitaya1+pitaya2)
+
+https://github.com/bpucker/CaryoAnthoBlock (under review)
+
+https://github.com/bpucker/LongReadWalker (standalone tool?; generate DOI)
+
+https://github.com/bpucker/GKseq (add loreta link)
+
+https://github.com/bpucker/variant_calling (NAVIP + mapper compraison)
+
+https://github.com/bpucker/yam (yam paper)
+
+https://github.com/bpucker/ncss2018 (splice site scripts)
+
+https://github.com/bpucker/At7
+
+https://github.com/bpucker/Nd1_PacBio
+
+https://github.com/bpucker/PEPD (PEPD structure preprint)
 
 
 ## References
