@@ -1,5 +1,5 @@
 # Github Repository Overview
-This is an overview of all github repositories associated with [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb).
+This is an overview of all github repositories associated with [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb). Please find a list of the science communication projects, the developed bioinformatics tools, teaching activities, and project specific repositories below.
 
 
 ## Science Communication
