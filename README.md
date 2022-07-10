@@ -14,7 +14,7 @@ Specific facts and research projects about MYB transcription factors are shared 
 Specific facts and research projects about the flavonoid biosynthesis are shared on a weekly basis via Twitter and LinkedIn using [#FlavonoidFriday](https://twitter.com/search?q=%23FlavonoidFriday&src=typed_query&f=top). All posts are collected in the [#FlavonoidFriday github repository](https://github.com/bpucker/FlavonoidFriday).
 
 <a href="https://github.com/bpucker/FlavonoidFriday">
-<img alt="Flavonoid biosynthesis pathway overview (Pucker <i>et al.,</i> 2020; doi:10.3390/plants9091103" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png" width="50%" height="50%">
+<img alt="Flavonoid biosynthesis pathway overview (Pucker <i>et al.,</i> 2020; doi:10.3390/plants9091103" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png" width="25%" height="25%">
 </a>  
 
 
