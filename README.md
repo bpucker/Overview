@@ -35,10 +35,12 @@ This tool performs an automatic identification, annotation, and analysis of the 
 
 
 ### MGSE
-Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome size based on a read mapping to an existing genome sequence assembly. 
-https://github.com/bpucker/MGSE
-server
-publication
+Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome size based on a read mapping to an existing genome sequence assembly. Please find the script and detailed instructions in the [MGSE repository](https://github.com/bpucker/MGSE). Additional details are described in the corresponding publication ['Mapping-based genome size estimation'](https://doi.org/10.1101/607390).
+
+<a href="https://github.com/bpucker/MGSE">
+<img alt="MGSE workflow (Pucker, 2021; doi:10.1101/607390)" src="https://raw.githubusercontent.com/bpucker/MGSE/df459458173ec0bcffba7ce61484e5765118c817/MGSE_concept.png" width="25%" height="25%">
+</a>
+
 
 ### Neighborhood-Aware Variant Impact Predictor (NAVIP)
 Prediction of the functional consequences of sequence variants listed in a VCF file.
