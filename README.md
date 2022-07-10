@@ -61,6 +61,11 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 ### Applied Plant Genomics (in preparation)
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
+<a href="https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics">
+<img alt="ONT sequencing" src="https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=p&p=625087&token=b5c0ad2fa83053e994c1789a280edb16e3078b1c" width="20%" height="20%">
+</a>
+
+
 ### Data Literacy in Plant Sciences (in preparation) 
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/DataLiteracyInPlantSciences).
 
