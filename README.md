@@ -19,7 +19,7 @@ Specific facts and research projects about the flavonoid biosynthesis are shared
 
 
 ## Tools
-### KIPEs
+### Knowledge-based Identification of Pathway Enzymes (KIPEs)
 Knowledge-based Identification of Pathway Enzymes (KIPEs) performs an automatic annotation of the flavonoid biosynthesis steps in a new transcriptome of genome sequence assembly. Scripts and datasets are availabe in the [KIPEs repository](https://github.com/bpucker/KIPEs). KIPEs is also available on [our web server](http://pbb.bot.nat.tu-bs.de/KIPEs/). This enables all scientists to use KIPEs in their research projects. Please find additional details in the corresponding publication ['Automatic Identification of Players in the Flavonoid Biosynthesis with Application on the Biomedicinal Plant <i>Croton tiglium</i>'](https://www.mdpi.com/2223-7747/9/9/1103/htm). Recently, we updated KIPEs with additional features and data sets as described in our preprint ['KIPEs3: Automatic annotation of biosynthesis pathways'](https://doi.org/10.1101/2022.06.30.498365).
 
 <a href="https://github.com/bpucker/KIPEs">
@@ -34,20 +34,20 @@ This tool performs an automatic identification, annotation, and analysis of the 
 </a>
 
 
-### MGSE
+### Mapping-based Genome Size Estimation (MGSE)
 Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome size based on a read mapping to an existing genome sequence assembly. Please find the script and detailed instructions in the [MGSE repository](https://github.com/bpucker/MGSE). Additional details are described in the corresponding publication ['Mapping-based genome size estimation'](https://doi.org/10.1101/607390).
 
 <a href="https://github.com/bpucker/MGSE">
-<img alt="MGSE workflow (Pucker, 2021; doi:10.1101/607390)" src="https://raw.githubusercontent.com/bpucker/MGSE/df459458173ec0bcffba7ce61484e5765118c817/MGSE_concept.png" width="50%" height="50%">
+<img alt="MGSE concept (Pucker, 2021; doi:10.1101/607390)" src="https://raw.githubusercontent.com/bpucker/MGSE/df459458173ec0bcffba7ce61484e5765118c817/MGSE_concept.png" width="50%" height="50%">
 </a>
 
 
 ### Neighborhood-Aware Variant Impact Predictor (NAVIP)
-Prediction of the functional consequences of sequence variants listed in a VCF file.
-https://github.com/bpucker/NAVIP
-server (under construction)
-publication
+Prediction of the functional consequences of sequence variants listed in a VCF file. Please find scripts and detailed instructions in the [NAVIP repository](https://github.com/bpucker/NAVIP). We are currently working to make NAVIP available through our web server. Please find additional details in the corresponding publication ['Influence of neighboring small sequence variants on functional impact prediction'](https://github.com/bpucker/NAVIP).
 
+<a href="https://github.com/bpucker/NAVIP">
+<img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2019; doi:10.1101/596718 )" src="https://www.biorxiv.org/content/biorxiv/early/2019/06/27/596718/F3.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
+</a>
 
 ## Teaching
 
