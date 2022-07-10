@@ -3,6 +3,11 @@ This is an overview of all github repositories associated with [PuckerLab](https
 
 
 ## Science Communication
+### MybMonday
+Specific facts and research projects about MYB transcription factors are shared on a weekly basis via Twitter and LinkedIn using [#MybMonday](https://twitter.com/search?q=%23MybMonday&src=typed_query).
+
+### FlavonoidFriday
+Specific facts and research projects about the flavonoid biosynthesis are shared on a weekly basis via Twitter and LinkedIn using [#FlavonoidFriday](https://twitter.com/search?q=%23FlavonoidFriday&src=typed_query&f=top).
 
 
 ## Tools
