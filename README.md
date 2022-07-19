@@ -104,7 +104,9 @@ iGEM (international Genetically Engineered Machine) is the largest synthetic bio
 
 ## (5) Project Specific Repositories
 
-https://github.com/bpucker/ApiaceaeFNS1 (preprint available)
+### (5.1) Evolution of _FNS I_ in the _Apiaceae_ ###
+Scripts associated with our analysis of the _FNS I_ evolution in the Apiaceae are available in the [ApiaceaeFNS1](https://github.com/bpucker/ApiaceaeFNS1) repository. Please find additional details in our preprint [_Apiaceae FNS I_ originated from _F3H_ through tandem gene duplication](https://doi.org/10.1101/2022.02.16.480750).
+
 
 https://github.com/bpucker/CoExp (web server support)
 
