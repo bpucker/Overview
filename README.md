@@ -119,9 +119,13 @@ The [LongReadWalker](https://github.com/bpucker/LongReadWalker) allows to close 
 ### (5.5) Genotyping GABI-Kat lines with ONT long reads ###
 The [GKseq](https://github.com/bpucker/GKseq) repository contains some scripts used for the analysis described in our paper [Large scale genomic rearrangements in selected Arabidopsis thaliana T-DNA lines are caused by T-DNA insertion mutagenesis](https://doi.org/10.1186/s12864-021-07877-8). Please find [loreta](https://github.com/nkleinbo/loreta) in this separate repository.
 
+### (5.6) NAVIP ###
+Please find [NAVIP](https://github.com/bpucker/NAVIP) in the corresponding repository. Detailed explanations can be found in our preprint [Influence of neighboring small sequence variants on functional impact prediction](https://doi.org/10.1101/596718).
+
+### (5.7) Mapper and variant caller comparison ###
+Please find scripts associated with our benchmarking study [Comparison of Read Mapping and Variant Calling Tools for the Analysis of Plant NGS Data](https://www.mdpi.com/2223-7747/9/4/439/htm) in the [variant calling](https://github.com/bpucker/variant_calling) repository.
 
 
-https://github.com/bpucker/variant_calling (NAVIP + mapper compraison)
 
 https://github.com/bpucker/yam (yam paper)
 
