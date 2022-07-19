@@ -113,11 +113,9 @@ The [CoExp](https://github.com/bpucker/CoExp) repository contains several script
 ### (5.3) Expression analysis in pitaya ###
 The scripts in the [pitaya](https://github.com/bpucker/pitaya) repository were developed and applied to refute two publications about pigments in this Caryophyllales plant species. Please find additional details in our publication [The report of anthocyanins in the betalain-pigmented genus Hylocereus is not well evidenced and is not a strong basis to refute the mutual exclusion paradigm](https://doi.org/10.1186/s12870-021-03080-9) and preprint [The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak](https://doi.org/10.1101/2021.11.16.468878).
 
+### (5.4) Long Read Walker ###
+The [LongReadWalker](https://github.com/bpucker/LongReadWalker) allows to close gaps between contigs of long read assemblies. All reads are screened for overlaps with the flanking contigs. Matches are used to extend contigs. An iterative approach is similar to the walking strategy deployed in the early days of genome sequencing when primers were placed at the border of known sequences to 'walk' into unknown sequences. The LongReadWalker tries to close a gap starting at both flanking contigs. The resulting sequences should match to fully support the gap replacing sequence.
 
-
-https://github.com/bpucker/CaryoAnthoBlock (under review)
-
-https://github.com/bpucker/LongReadWalker (standalone tool?; generate DOI)
 
 https://github.com/bpucker/GKseq (add loreta link)
 
@@ -132,6 +130,11 @@ https://github.com/bpucker/At7
 https://github.com/bpucker/Nd1_PacBio
 
 https://github.com/bpucker/PEPD (PEPD structure preprint)
+
+
+
+https://github.com/bpucker/CaryoAnthoBlock (under review)
+
 
 
 ## References
