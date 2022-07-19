@@ -107,8 +107,10 @@ iGEM (international Genetically Engineered Machine) is the largest synthetic bio
 ### (5.1) Evolution of _FNS I_ in the _Apiaceae_ ###
 Scripts associated with our analysis of the _FNS I_ evolution in the Apiaceae are available in the [ApiaceaeFNS1](https://github.com/bpucker/ApiaceaeFNS1) repository. Please find additional details in our preprint [_Apiaceae FNS I_ originated from _F3H_ through tandem gene duplication](https://doi.org/10.1101/2022.02.16.480750).
 
+### (5.2) Co-expression analysis ###
+The [CoExp](https://github.com/bpucker/CoExp) repository contains several scripts associated with a co-expression analysis. This includes the preparation of count tables with kallisto. The actual co-expression analysis is also available through our [webserver](http://pbb.bot.nat.tu-bs.de/CoExp/).
 
-https://github.com/bpucker/CoExp (web server support)
+
 
 https://github.com/bpucker/RNA-Seq_analysis (PEPD nature paper)
 
