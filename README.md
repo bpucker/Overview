@@ -110,11 +110,10 @@ Scripts associated with our analysis of the _FNS I_ evolution in the Apiaceae ar
 ### (5.2) Co-expression analysis ###
 The [CoExp](https://github.com/bpucker/CoExp) repository contains several scripts associated with a co-expression analysis. This includes the preparation of count tables with kallisto. The actual co-expression analysis is also available through our [webserver](http://pbb.bot.nat.tu-bs.de/CoExp/).
 
+### (5.3) Expression analysis in pitaya ###
+The scripts in the [pitaya](https://github.com/bpucker/pitaya) repository were developed and applied to refute two publications about pigments in this Caryophyllales plant species. Please find additional details in our publication [The report of anthocyanins in the betalain-pigmented genus Hylocereus is not well evidenced and is not a strong basis to refute the mutual exclusion paradigm](https://doi.org/10.1186/s12870-021-03080-9) and preprint [The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak](https://doi.org/10.1101/2021.11.16.468878).
 
 
-https://github.com/bpucker/RNA-Seq_analysis (PEPD nature paper)
-
-https://github.com/bpucker/pitaya (pitaya1+pitaya2)
 
 https://github.com/bpucker/CaryoAnthoBlock (under review)
 
