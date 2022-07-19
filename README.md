@@ -111,7 +111,7 @@ Scripts associated with our analysis of the _FNS I_ evolution in the Apiaceae ar
 The [CoExp](https://github.com/bpucker/CoExp) repository contains several scripts associated with a co-expression analysis. This includes the preparation of count tables with kallisto. The actual co-expression analysis is also available through our [webserver](http://pbb.bot.nat.tu-bs.de/CoExp/).
 
 ### (5.3) Expression analysis in pitaya ###
-The scripts in the [pitaya](https://github.com/bpucker/pitaya) repository were developed and applied to refute two publications about pigments in this Caryophyllales plant species. Please find additional details in our publication [The report of anthocyanins in the betalain-pigmented genus Hylocereus is not well evidenced and is not a strong basis to refute the mutual exclusion paradigm](https://doi.org/10.1186/s12870-021-03080-9) and preprint [The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak](https://doi.org/10.1101/2021.11.16.468878).
+The scripts in the [pitaya](https://github.com/bpucker/pitaya) repository were developed and applied to refute two publications about pigments in this Caryophyllales plant species. Please find additional details in our publication [The report of anthocyanins in the betalain-pigmented genus _Hylocereus_ is not well evidenced and is not a strong basis to refute the mutual exclusion paradigm](https://doi.org/10.1186/s12870-021-03080-9) and preprint [The evidence for anthocyanins in the betalain-pigmented genus _Hylocereus_ is weak](https://doi.org/10.1101/2021.11.16.468878).
 
 ### (5.4) Long Read Walker ###
 The [LongReadWalker](https://github.com/bpucker/LongReadWalker) allows to close gaps between contigs of long read assemblies. All reads are screened for overlaps with the flanking contigs. Matches are used to extend contigs. An iterative approach is similar to the walking strategy deployed in the early days of genome sequencing when primers were placed at the border of known sequences to 'walk' into unknown sequences. The LongReadWalker tries to close a gap starting at both flanking contigs. The resulting sequences should match to fully support the gap replacing sequence.
@@ -125,11 +125,14 @@ Please find [NAVIP](https://github.com/bpucker/NAVIP) in the corresponding repos
 ### (5.7) Mapper and variant caller comparison ###
 Please find scripts associated with our benchmarking study [Comparison of Read Mapping and Variant Calling Tools for the Analysis of Plant NGS Data](https://www.mdpi.com/2223-7747/9/4/439/htm) in the [variant calling](https://github.com/bpucker/variant_calling) repository.
 
+### (5.8) Yam genome sequence ###
+The [yam](https://github.com/bpucker/yam) repository contains several analysis scripts associated with the investigation of the yam genome sequence [High Contiguity _de novo_ Genome Sequence Assembly of Trifoliate Yam (_Dioscorea dumetorum_) Using Long Read Sequencing](https://www.mdpi.com/2073-4425/11/3/274/htm).
+
+### (5.9) Non-canonical splice sites ###
+The [ncss](https://github.com/bpucker/ncss2018) repository contains scripts required for the systematic analysis of non-canonical splice sites. Please find additional details in the corresponding publications [Genome-wide analyses supported by RNA-Seq reveal non-canonical splice sites in plant genomes](https://doi.org/10.1186/s12864-018-5360-z) and [Animal, Fungi, and Plant Genome Sequences Harbor Different Non-Canonical Splice Sites](https://www.mdpi.com/2073-4409/9/2/458/htm).
 
 
-https://github.com/bpucker/yam (yam paper)
 
-https://github.com/bpucker/ncss2018 (splice site scripts)
 
 https://github.com/bpucker/At7
 
