@@ -116,8 +116,10 @@ The scripts in the [pitaya](https://github.com/bpucker/pitaya) repository were d
 ### (5.4) Long Read Walker ###
 The [LongReadWalker](https://github.com/bpucker/LongReadWalker) allows to close gaps between contigs of long read assemblies. All reads are screened for overlaps with the flanking contigs. Matches are used to extend contigs. An iterative approach is similar to the walking strategy deployed in the early days of genome sequencing when primers were placed at the border of known sequences to 'walk' into unknown sequences. The LongReadWalker tries to close a gap starting at both flanking contigs. The resulting sequences should match to fully support the gap replacing sequence.
 
+### (5.5) Genotyping GABI-Kat lines with ONT long reads ###
+The [GKseq](https://github.com/bpucker/GKseq) repository contains some scripts used for the analysis described in our paper [Large scale genomic rearrangements in selected Arabidopsis thaliana T-DNA lines are caused by T-DNA insertion mutagenesis](https://doi.org/10.1186/s12864-021-07877-8). Please find [loreta](https://github.com/nkleinbo/loreta) in this separate repository.
 
-https://github.com/bpucker/GKseq (add loreta link)
+
 
 https://github.com/bpucker/variant_calling (NAVIP + mapper compraison)
 
