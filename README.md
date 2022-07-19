@@ -131,14 +131,14 @@ The [yam](https://github.com/bpucker/yam) repository contains several analysis s
 ### (5.9) Non-canonical splice sites ###
 The [ncss](https://github.com/bpucker/ncss2018) repository contains scripts required for the systematic analysis of non-canonical splice sites. Please find additional details in the corresponding publications [Genome-wide analyses supported by RNA-Seq reveal non-canonical splice sites in plant genomes](https://doi.org/10.1186/s12864-018-5360-z) and [Animal, Fungi, and Plant Genome Sequences Harbor Different Non-Canonical Splice Sites](https://www.mdpi.com/2073-4409/9/2/458/htm).
 
+### (5.10) Investigation of the At7 genome ###
+The [At7](https://github.com/bpucker/At7) repository contains several scripts associated with the coverage analyses performed on the At7 genome sequencing data sets. Please find additional details in the corresponding publicaton [Twenty-Five Years of Propagation in Suspension Cell Culture Results in Substantial Alterations of the Arabidopsis Thaliana Genome](https://www.mdpi.com/2073-4425/10/9/671/htm).
 
+### (5.11) Nd-1 genome ###
+The [Nd-1](https://github.com/bpucker/Nd1_PacBio) repository contains scripts developed for the PacBio sequencing of the _Arabidopsis thaliana_ Nd-1 genome sequence. Please find additional details in the corresponding publication [A chromosome-level sequence assembly reveals the structure of the _Arabidopsis thaliana_ Nd-1 genome and its gene set](https://doi.org/10.1371/journal.pone.0216233).
 
-
-https://github.com/bpucker/At7
-
-https://github.com/bpucker/Nd1_PacBio
-
-https://github.com/bpucker/PEPD (PEPD structure preprint)
+### (5.12) Analysis of PEPD structure ###
+The [PEPD](https://github.com/bpucker/PEPD) repository contains scripts and instructions associated with the analysis of the PEPD structure. Please find additional details about the analysis results in our preprint [Harnessing natural diversity to identify key amino acid residues in prolidase](https://doi.org/10.1101/423475).
 
 
 
