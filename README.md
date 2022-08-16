@@ -141,9 +141,11 @@ The [Nd-1](https://github.com/bpucker/Nd1_PacBio) repository contains scripts de
 The [PEPD](https://github.com/bpucker/PEPD) repository contains scripts and instructions associated with the analysis of the PEPD structure. Please find additional details about the analysis results in our preprint [Harnessing natural diversity to identify key amino acid residues in prolidase](https://doi.org/10.1101/423475).
 
 
-
 https://github.com/bpucker/CaryoAnthoBlock (under review)
 
+
+## (6) Collection of bioinformatic tools
+All tools developed by the [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb) group @ TU braunschweig are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.tu-braunschweig.de/en/ifp/pbb/tools).
 
 
 ## References
