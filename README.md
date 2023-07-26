@@ -83,7 +83,7 @@ This course introduces molecular biologists to wet lab methods of genome researc
 </a>
 
 ## (4) Teaching @ TU Braunschweig
-### (4.1) Introduction to Biochemistry and Bioinformatics of Plants
+### (4.1) Introduction to Biochemistry and Bioinformatics of Plants (MB09)
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics">
@@ -91,7 +91,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </a>
 
 
-### (4.2) Applied Plant Genomics
+### (4.2) Applied Plant Genomics (GE31)
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics">
@@ -99,10 +99,11 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </a>
 
 
-### (4.3) Data Literacy in Plant Sciences
+### (4.3) Data Literacy in Plant Sciences (GE32)
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/DataLiteracyInPlantSciences).
 
-### (4.4) iGEM @ TU Braunschweig ###
+
+### (4.4) iGEM @ TU Braunschweig
 iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) was/is hosting the [TU Braunschweig iGEM2022](https://www.tu-braunschweig.de/en/igem/2022) and [TU Braunschweig iGEM2023](https://www.tu-braunschweig.de/en/igem/2023) teams.
 
 <a href="https://www.tu-braunschweig.de/en/igem/2022">
@@ -110,6 +111,23 @@ iGEM (international Genetically Engineered Machine) is the largest synthetic bio
 <img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
 </div>
 </a>  
+
+
+### (4.5) Data Literacy in Genome Research / Data Literacy in Genomics
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/FRX_DataLiteracyInGenomeResearch).
+
+
+### (4.6) Applied Python Programming for Life Scientists (BB34)
+Material used in this course can be found [here](https://github.com/bpucker/PythonTUBS). Additional data sets are available [here](https://cloud.tu-braunschweig.de/s/HXrzS4pFrLxdAMb).
+
+
+### (4.7) Applied Plant Transcriptomics (GE33)
+Material used in this course can be found [here](https://github.com/bpucker/AppliedPlantTranscriptomics).
+
+
+### (4.8) Molecular Plant Biology for Food Chemists (LMChemBSc-12)
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/LMChemBSc-12).
+
 
 
 ## (5) Project Specific Repositories
