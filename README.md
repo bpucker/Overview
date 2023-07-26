@@ -99,11 +99,11 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 </a>
 
 
-### (4.3) Data Literacy in Plant Sciences (in preparation) 
+### (4.3) Data Literacy in Plant Sciences
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/DataLiteracyInPlantSciences).
 
 ### (4.4) iGEM @ TU Braunschweig ###
-iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/en/igem/2022).
+iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) was/is hosting the [TU Braunschweig iGEM2022](https://www.tu-braunschweig.de/en/igem/2022) and [TU Braunschweig iGEM2023](https://www.tu-braunschweig.de/en/igem/2023) teams.
 
 <a href="https://www.tu-braunschweig.de/en/igem/2022">
 <div>
