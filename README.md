@@ -20,14 +20,14 @@ Specific facts and research projects about the flavonoid biosynthesis are shared
 
 ## (2) Tools
 ### (2.1) Knowledge-based Identification of Pathway Enzymes (KIPEs)
-Knowledge-based Identification of Pathway Enzymes (KIPEs) performs an automatic annotation of the flavonoid biosynthesis steps in a new transcriptome of genome sequence assembly. Scripts and datasets are availabe in the [KIPEs repository](https://github.com/bpucker/KIPEs). KIPEs is also available on [our web server](http://pbb.bot.nat.tu-bs.de/KIPEs/). This enables all scientists to use KIPEs in their research projects. Please find additional details in the corresponding publication ['Automatic Identification of Players in the Flavonoid Biosynthesis with Application on the Biomedicinal Plant <i>Croton tiglium</i>'](https://www.mdpi.com/2223-7747/9/9/1103/htm). Recently, we updated KIPEs with additional features and data sets as described in our preprint ['KIPEs3: Automatic annotation of biosynthesis pathways'](https://doi.org/10.1101/2022.06.30.498365).
+Knowledge-based Identification of Pathway Enzymes (KIPEs) performs an automatic annotation of the flavonoid biosynthesis steps in a new transcriptome of genome sequence assembly. Scripts and datasets are availabe in the [KIPEs repository](https://github.com/bpucker/KIPEs). KIPEs is also available on [our web server](https://pbb-tools.de/KIPEs/). This enables all scientists to use KIPEs in their research projects. Please find additional details in the corresponding publication ['Automatic Identification of Players in the Flavonoid Biosynthesis with Application on the Biomedicinal Plant <i>Croton tiglium</i>'](https://www.mdpi.com/2223-7747/9/9/1103/htm). Recently, we updated KIPEs with additional features and data sets as described in our preprint ['KIPEs3: Automatic annotation of biosynthesis pathways'](https://doi.org/10.1101/2022.06.30.498365).
 
 <a href="https://github.com/bpucker/KIPEs">
 <img alt="KIPEs workflow (Pucker <i>et al.,</i> 2020; doi:10.3390/plants9091103; Rempel&Pucker,2022; doi:10.1101/2022.06.30.498365)" src="https://www.biorxiv.org/content/biorxiv/early/2022/07/02/2022.06.30.498365/F1.large.jpg?width=800&height=600&carousel=1" width="25%" height="25%">
 </a>  
 
 ### (2.2) MYB_annotator
-This tool performs an automatic identification, annotation, and analysis of the MYB gene family in plants. It can be applied to new transcriptome of genome assemblies. Please find the scripts and data sets in the [MYB_annotator repository](https://github.com/bpucker/MYB_annotator). The MYB_annotator is also available on [our web server](http://pbb.bot.nat.tu-bs.de/MYB_annotator/). This enables all scientists to use KIPEs in their research projects. Please find additional details in the corresponding publication ['Automatic identification and annotation of MYB gene family members in plants'](https://doi.org/10.1186/s12864-022-08452-5).
+This tool performs an automatic identification, annotation, and analysis of the MYB gene family in plants. It can be applied to new transcriptome of genome assemblies. Please find the scripts and data sets in the [MYB_annotator repository](https://github.com/bpucker/MYB_annotator). The MYB_annotator is also available on [our web server](https://pbb-tools.de/MYB_annotator/). This enables all scientists to use the bHLH_annotator in their research projects. Please find additional details in the corresponding publication ['Automatic identification and annotation of MYB gene family members in plants'](https://doi.org/10.1186/s12864-022-08452-5).
 
 <a href="https://github.com/bpucker/MYB_annotator">
 <img alt="MYB_annotator workflow (Pucker, 2022; doi:10.1186/s12864-022-08452-5)" src="https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-022-08452-5/MediaObjects/12864_2022_8452_Fig1_HTML.png?as=webp" width="25%" height="25%">
@@ -48,6 +48,16 @@ Prediction of the functional consequences of sequence variants listed in a VCF f
 <a href="https://github.com/bpucker/NAVIP">
 <img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2019; doi:10.1101/596718 )" src="https://www.biorxiv.org/content/biorxiv/early/2019/06/27/596718/F3.large.jpg?width=800&height=600&carousel=1" width="30%" height="30%">
 </a>
+
+### (2.5) bHLH_annotator
+This tool performs an automatic identification, annotation, and analysis of the bHLH transcription factor gene family in plants. It can be applied to new transcriptome assemblies or to the annotation derived from genome sequences. Please find the scripts and data sets in the [bHLH_annotator repository](https://github.com/bpucker/bHLH_annotator). The bHLH_annotator is also available on [our web server](https://pbb-tools.de/bHLH_annotator/). This enables all scientists to use the bHLH_annotator in their research projects. Please find additional details in the corresponding publication ['Automatic annotation of the bHLH gene family in plants'](https://doi.org/10.1101/2023.05.02.539087).
+
+<a href="https://github.com/bpucker/bHLH_annotator">
+<img alt="bHLH_annotator workflow (Thoben & Pucker, 2023 doi: 10.1101/2023.05.02.539087" src="https://github.com/bpucker/bHLH_annotator/blob/main/bHLH_annotator.png?raw=true" width="30%" height="30%">
+</a>
+
+
+
 
 ## (3) Teaching @ Uni Bielefeld
 
