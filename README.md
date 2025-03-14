@@ -1,17 +1,17 @@
 # Github Repository Overview
-This is an overview of all github repositories associated with [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb). Please find a list of the science communication projects, the developed bioinformatics tools, teaching activities, and project specific repositories below.
+This is an overview of all github repositories associated with [PuckerLab](https://www.mps.uni-bonn.de). Please find a list of the science communication projects, the developed bioinformatics tools, teaching activities, and project specific repositories below.
 
 
 ## (1) Science Communication
 ### (1.1) [MybMonday](https://github.com/bpucker/MybMonday)
-Specific facts and research projects about MYB transcription factors are shared on a weekly basis via Twitter and LinkedIn using [#MybMonday](https://twitter.com/search?q=%23MybMonday&src=typed_query). All posts are collected in the [#MybMonday github repository](https://github.com/bpucker/MybMonday).
+Specific facts and research projects about MYB transcription factors are shared on a weekly basis via social media using [#MybMonday](https://github.com/bpucker/MybMonday).
 
 <a href="https://github.com/bpucker/MybMonday">
 <img alt="Phylogenetic tree of banana MYBs (Pucker <i>et al.</i>, 2020; doi:10.1371/journal.pone.0239275)" src="https://www.biorxiv.org/content/biorxiv/early/2020/02/03/2020.02.03.932046/F2.large.jpg" width="30%" height="30%">
 </a>
 
 ### (1.2) [FlavonoidFriday](https://github.com/bpucker/FlavonoidFriday)
-Specific facts and research projects about the flavonoid biosynthesis are shared on a weekly basis via Twitter and LinkedIn using [#FlavonoidFriday](https://twitter.com/search?q=%23FlavonoidFriday&src=typed_query&f=top). All posts are collected in the [#FlavonoidFriday github repository](https://github.com/bpucker/FlavonoidFriday).
+Specific facts and research projects about the flavonoid biosynthesis are shared on a weekly basis via social media using [#FlavonoidFriday](https://github.com/bpucker/FlavonoidFriday).
 
 <a href="https://github.com/bpucker/FlavonoidFriday">
 <img alt="Flavonoid biosynthesis pathway overview (Pucker <i>et al.,</i> 2020; doi:10.3390/plants9091103" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png" width="25%" height="25%">
@@ -43,17 +43,17 @@ Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome s
 
 
 ### (2.4) Neighborhood-Aware Variant Impact Predictor (NAVIP)
-Prediction of the functional consequences of sequence variants listed in a VCF file. Please find scripts and detailed instructions in the [NAVIP repository](https://github.com/bpucker/NAVIP). We are currently working to make NAVIP available through our web server. Please find additional details in the corresponding publication ['Influence of neighboring small sequence variants on functional impact prediction'](https://github.com/bpucker/NAVIP).
+Prediction of the functional consequences of sequence variants listed in a VCF file. Please find scripts and detailed instructions in the [NAVIP repository](https://github.com/bpucker/NAVIP). We are currently working to make NAVIP available through our web server. Please find additional details in the corresponding publication ['Influence of neighboring small sequence variants on functional impact prediction'](https://doi.org/10.1371/journal.pcbi.1012732).
 
 <a href="https://github.com/bpucker/NAVIP">
-<img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2019; doi:10.1101/596718 )" src="https://www.biorxiv.org/content/biorxiv/early/2019/06/27/596718/F3.large.jpg?width=800&height=600&carousel=1" width="30%" height="30%">
+<img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2025; doi: 10.1371/journal.pcbi.1012732)" src="https://www.biorxiv.org/content/biorxiv/early/2019/06/27/596718/F3.large.jpg?width=800&height=600&carousel=1" width="30%" height="30%">
 </a>
 
 ### (2.5) bHLH_annotator
-This tool performs an automatic identification, annotation, and analysis of the bHLH transcription factor gene family in plants. It can be applied to new transcriptome assemblies or to the annotation derived from genome sequences. Please find the scripts and data sets in the [bHLH_annotator repository](https://github.com/bpucker/bHLH_annotator). The bHLH_annotator is also available on [our web server](https://pbb-tools.de/bHLH_annotator/). This enables all scientists to use the bHLH_annotator in their research projects. Please find additional details in the corresponding publication ['Automatic annotation of the bHLH gene family in plants'](https://doi.org/10.1101/2023.05.02.539087).
+This tool performs an automatic identification, annotation, and analysis of the bHLH transcription factor gene family in plants. It can be applied to new transcriptome assemblies or to the annotation derived from genome sequences. Please find the scripts and data sets in the [bHLH_annotator repository](https://github.com/bpucker/bHLH_annotator). The bHLH_annotator is also available on [our web server](https://pbb-tools.de/bHLH_annotator/). This enables all scientists to use the bHLH_annotator in their research projects. Please find additional details in the corresponding publication ['Automatic annotation of the bHLH gene family in plants'](https://doi.org/10.1186/s12864-023-09877-2).
 
 <a href="https://github.com/bpucker/bHLH_annotator">
-<img alt="bHLH_annotator workflow (Thoben & Pucker, 2023 doi: 10.1101/2023.05.02.539087" src="https://github.com/bpucker/bHLH_annotator/blob/main/bHLH_annotator.png?raw=true" width="30%" height="30%">
+<img alt="bHLH_annotator workflow (Thoben & Pucker, 2023 doi: 10.1186/s12864-023-09877-2" src="https://github.com/bpucker/bHLH_annotator/blob/main/bHLH_annotator.png?raw=true" width="30%" height="30%">
 </a>
 
 
@@ -104,7 +104,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 
 ### (4.4) iGEM @ TU Braunschweig
-iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) was/is hosting the [TU Braunschweig iGEM2022](https://www.tu-braunschweig.de/en/igem/2022) and [TU Braunschweig iGEM2023](https://www.tu-braunschweig.de/en/igem/2023) teams.
+iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) hosted the [TU Braunschweig iGEM2022](https://www.tu-braunschweig.de/en/igem/2022) and [TU Braunschweig iGEM2023](https://www.tu-braunschweig.de/en/igem/2023) teams.
 
 <a href="https://www.tu-braunschweig.de/en/igem/2022">
 <div>
@@ -173,12 +173,12 @@ https://github.com/bpucker/CaryoAnthoBlock (under review)
 
 
 ## (6) Collection of bioinformatic tools
-All tools developed by the [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb) group @ TU braunschweig are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.tu-braunschweig.de/en/ifp/pbb/tools).
+All tools developed by the [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb) group @ TU braunschweig are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.pbb-tools.de).
 
 
 ## References
-Please find a full list of our publications on the [@PuckerLab website](https://www.tu-braunschweig.de/en/ifp/pbb/publications).
+Please find a full list of our publications on the [@PuckerLab website](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/publications).
 
 
 ## Contact
-Do you have questions or are you interested in a collaboration? Please get in touch via [email](https://www.tu-braunschweig.de/en/ifp/pbb/contact).
+Do you have questions or are you interested in a collaboration? Please get in touch via [email](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/contact).
