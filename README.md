@@ -95,7 +95,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
 <a href="https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics">
-<img alt="ONT sequencing" src="https://www.tu-braunschweig.de/index.php?eID=dumpFile&t=p&p=625087&token=b5c0ad2fa83053e994c1789a280edb16e3078b1c" width="20%" height="20%">
+<img alt="ONT sequencing" src="https://github.com/bpucker/figures/blob/main/ONT_sequencing.png?raw=true" width="20%" height="20%">
 </a>
 
 
@@ -104,9 +104,9 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 
 ### (4.4) iGEM @ TU Braunschweig
-iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) hosted the [TU Braunschweig iGEM2022](https://www.tu-braunschweig.de/en/igem/2022) and [TU Braunschweig iGEM2023](https://www.tu-braunschweig.de/en/igem/2023) teams.
+iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.mps.uni-bonn.de) hosted the [TU Braunschweig iGEM2022](https://2022.igem.wiki/tu-braunschweig/) and [TU Braunschweig iGEM2023](https://2023.igem.wiki/tu-braunschweig/) teams.
 
-<a href="https://www.tu-braunschweig.de/en/igem/2022">
+<a href="https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/igem">
 <div>
 <img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
 </div>
@@ -179,7 +179,7 @@ https://github.com/bpucker/CaryoAnthoBlock (under review)
 
 
 ## (7) Collection of bioinformatic tools
-All tools developed by the Plant Biotechnology and Bioinformatics group (TU Braunschweig) and the [Molecular Plant Sciences](https://www.mps.uni-bonn.de) group (Uni Bonn) are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.pbb-tools.de).
+All tools developed by the [PuckerLab](https://www.mps.uni-bonn.de) (Uni Bonn) are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.pbb-tools.de).
 
 
 ## References
