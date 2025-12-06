@@ -35,10 +35,10 @@ This tool performs an automatic identification, annotation, and analysis of the 
 
 
 ### (2.3) Mapping-based Genome Size Estimation (MGSE)
-Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome size based on a read mapping to an existing genome sequence assembly. Please find the script and detailed instructions in the [MGSE repository](https://github.com/bpucker/MGSE). Additional details are described in the corresponding publication ['Mapping-based genome size estimation'](https://doi.org/10.1101/607390).
+Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome size based on a read mapping to an existing genome sequence assembly. Please find the script and detailed instructions in the [MGSE repository](https://github.com/bpucker/MGSE). Additional details are described in the corresponding publication ['Mapping-based genome size estimation'](https://doi.org/10.1186/s12864-025-11640-8).
 
 <a href="https://github.com/bpucker/MGSE">
-<img alt="MGSE concept (Pucker, 2021; doi:10.1101/607390)" src="https://raw.githubusercontent.com/bpucker/MGSE/df459458173ec0bcffba7ce61484e5765118c817/MGSE_concept.png" width="400">
+<img alt="MGSE concept (Natarajan, 2025; doi:10.1186/s12864-025-11640-8)" src="https://raw.githubusercontent.com/bpucker/MGSE/df459458173ec0bcffba7ce61484e5765118c817/MGSE_concept.png" width="400">
 </a>
 
 
