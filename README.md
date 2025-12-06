@@ -46,7 +46,7 @@ Mapping-based Genome Size Estimation (MGSE) performs an estimation of a genome s
 Prediction of the functional consequences of sequence variants listed in a VCF file. Please find scripts and detailed instructions in the [NAVIP repository](https://github.com/bpucker/NAVIP). We are currently working to make NAVIP available through our web server. Please find additional details in the corresponding publication ['NAVIP: Unraveling the influence of neighboring small sequence variants on functional impact prediction'](https://doi.org/10.1371/journal.pcbi.1012732).
 
 <a href="https://github.com/bpucker/NAVIP">
-<img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2025; doi: 10.1371/journal.pcbi.1012732)" src="https://www.biorxiv.org/content/biorxiv/early/2019/06/27/596718/F3.large.jpg?width=800&height=600&carousel=1" width="400">
+<img alt="cInDels detected by NAVIP (Baasner <i>et al</i>., 2025; doi: 10.1371/journal.pcbi.1012732)" src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1012732.g002" width="400">
 </a>
 
 ### (2.5) bHLH_annotator
