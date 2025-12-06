@@ -7,7 +7,7 @@ This is an overview of all github repositories associated with [PuckerLab](https
 Specific facts and research projects about MYB transcription factors are shared on a weekly basis via social media using [#MybMonday](https://github.com/bpucker/MybMonday).
 
 <a href="https://github.com/bpucker/MybMonday">
-<img alt="Phylogenetic tree of banana MYBs (Pucker <i>et al.</i>, 2020; doi:10.1371/journal.pone.0239275)" src="https://www.biorxiv.org/content/biorxiv/early/2020/02/03/2020.02.03.932046/F2.large.jpg" width="400">
+<img alt="Phylogenetic tree of banana MYBs (Pucker <i>et al.</i>, 2020; doi:10.1371/journal.pone.0239275)" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0239275.g002" width="400">
 </a>
 
 ### (1.2) [FlavonoidFriday](https://github.com/bpucker/FlavonoidFriday)
