@@ -1,6 +1,11 @@
 # Github Repository Overview
 This is an overview of all github repositories associated with [PuckerLab](https://www.pbb.uni-bonn.de). Please find a list of the science communication projects, the developed bioinformatics tools, teaching activities, and project specific repositories below.
 
+Please find our tools in the [PBBtools repository](https://github.com/bpucker/PBBtools).
+
+<a href="https://github.com/bpucker/PBBtools">
+<img alt="PuckerLab logo" src="https://github.com/bpucker/figures/blob/main/PuckerLabLogo.png?raw=true" width="400">
+</a>  
 
 ## (1) Science Communication
 ### (1.1) [MybMonday](https://github.com/bpucker/MybMonday)
