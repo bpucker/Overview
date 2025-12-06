@@ -1,5 +1,5 @@
 # Github Repository Overview
-This is an overview of all github repositories associated with [PuckerLab](https://www.mps.uni-bonn.de). Please find a list of the science communication projects, the developed bioinformatics tools, teaching activities, and project specific repositories below.
+This is an overview of all github repositories associated with [PuckerLab](https://www.pbb.uni-bonn.de). Please find a list of the science communication projects, the developed bioinformatics tools, teaching activities, and project specific repositories below.
 
 
 ## (1) Science Communication
@@ -104,7 +104,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 
 ### (4.4) iGEM @ TU Braunschweig
-iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.mps.uni-bonn.de) hosted the [TU Braunschweig iGEM2022](https://2022.igem.wiki/tu-braunschweig/) and [TU Braunschweig iGEM2023](https://2023.igem.wiki/tu-braunschweig/) teams.
+iGEM (international Genetically Engineered Machine) is the largest synthetic biology competition with over 300 international teams participating each year. [PuckerLab](https://www.pbb.uni-bonn.de) hosted the [TU Braunschweig iGEM2022](https://2022.igem.wiki/tu-braunschweig/) and [TU Braunschweig iGEM2023](https://2023.igem.wiki/tu-braunschweig/) teams.
 
 <a href="https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/igem">
 <div>
@@ -179,7 +179,7 @@ https://github.com/bpucker/CaryoAnthoBlock (under review)
 
 
 ## (7) Collection of bioinformatic tools
-All tools developed by the [PuckerLab](https://www.mps.uni-bonn.de) (Uni Bonn) are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.pbb-tools.de).
+All tools developed by the [PuckerLab](https://www.pbb.uni-bonn.de) (Uni Bonn) are available in the [PBBtools repository](https://github.com/bpucker/PBBtools). Many of these tools are available via our [BioinfToolServer](https://www.pbb-tools.de).
 
 
 ## References
