@@ -140,6 +140,23 @@ Material used in this course can be found [here](https://github.com/bpucker/PyBo
 </a>  
 
 
+### (5.2) Introduction to Molecular Plant Biology (BIO13)
+
+
+
+Plant Biochemistry, Physiology and Molecular Biology (PBPM) lecture
+https://github.com/bpucker/teaching/tree/master/PBPM
+
+
+Soft skill seminars offered to PuckerLab members
+https://github.com/bpucker/teaching/tree/master/SoftSkillSeminars
+
+Long Read Genomics (Lecture series in Prague)
+https://github.com/bpucker/LRG
+
+de.NBI courses
+https://github.com/bpucker/teaching/tree/master/deNBI2025
+
 
 
 
