@@ -164,8 +164,15 @@ Slides of this lecture are available [here](https://github.com/bpucker/LRG).
 
 
 ### (5.6) de.NBI courses
-Slides of this lecture will become available [here](https://github.com/bpucker/teaching/tree/master/deNBI2025).
+Slides of these courses are available [here](https://github.com/bpucker/teaching/tree/master/deNBI2025).
 
+
+### (5.7) WBIO-A-07
+Slides of this course are available [here](https://github.com/bpucker/teaching/tree/master/WBIO-A-07).
+
+
+### (5.8) WBIO-A-08
+Slides of this course are available [here](https://github.com/bpucker/PlantBioinformatics).
 
 
 
@@ -208,8 +215,8 @@ The [Nd-1](https://github.com/bpucker/Nd1_PacBio) repository contains scripts de
 ### (6.12) Analysis of PEPD structure ###
 The [PEPD](https://github.com/bpucker/PEPD) repository contains scripts and instructions associated with the analysis of the PEPD structure. Please find additional details about the analysis results in our preprint [Harnessing natural diversity to identify key amino acid residues in prolidase](https://doi.org/10.1101/423475).
 
-
-https://github.com/bpucker/CaryoAnthoBlock (under review)
+### (6.13) Blocks in the anthocyanin biosynthesis in the Caryophyllales ###
+This [repository](https://github.com/bpucker/CaryoAnthoBlock) contains the scripts and instructions associated with a systematic investigation of anthocyanin biosynthesis gene expression in the Caryophyllales.
 
 
 ## (7) Collection of bioinformatic tools
@@ -217,8 +224,8 @@ All tools developed by the [PuckerLab](https://www.pbb.uni-bonn.de) (Uni Bonn) a
 
 
 ## References
-Please find a full list of our publications on the [@PuckerLab website](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/publications).
+Please find a full list of our publications on the [@PuckerLab website](https://www.izmb.uni-bonn.de/en/pbb/publications).
 
 
 ## Contact
-Do you have questions or are you interested in a collaboration? Please get in touch via [email](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/contact).
+Do you have questions or are you interested in a collaboration? Please get in touch via [email](https://www.izmb.uni-bonn.de/en/pbb/contact).
